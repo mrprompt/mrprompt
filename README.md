@@ -29,4 +29,8 @@ Sou apaixonado por tecnologia e desenvolvimento e busco sempre aplicar as melhor
 
 #### Social
 
-[![paesthiago](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/paesthiago) [![pu5jnp](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/pu5jnp) [![thiagopaes_mrprompt](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg)](https://www.youtube.com/c/thiagopaes_mrprompt)
+<p align="left">
+  <a href="https://linkedin.com/in/paesthiago" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paesthiago" height="30" width="40" /></a>
+  <a href="https://instagram.com/pu5jnp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pu5jnp" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/thiagopaes_mrprompt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thiagopaes_mrprompt" height="30" width="40" /></a>
+</p>

@@ -1,7 +1,5 @@
 # Olá 👋, eu sou Thiago Paes, aka mrprompt.
 
-## A passionate self-taught developer from Brazil.
-
 Desenvolvedor de software com mais de 20 anos de experiência, especializado em PHP e desenvolvimento orientado a testes. <br>
 Tenho sólida experiência em liderar equipes técnicas e entregar soluções escaláveis e de alta performance para setores como gateways de pagamento, automação de mailing, APIs robustas e processamento de vídeo. <br>
 Sou apaixonado por tecnologia e desenvolvimento e busco sempre aplicar as melhores práticas, como Test-Driven Development (TDD), SOLID, Clean Code, metodologias ágeis e integração contínua, para garantir a entrega de soluções eficientes.

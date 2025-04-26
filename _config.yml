@@ -33,7 +33,7 @@ projects:
 
   - title: API da BRAMON 
     url: https://github.com/bramon-org/bramon-api
-    description:  API da BRAMON 
+    description: API da BRAMON - Brazilian Meteor Observation Network - para coleta de dados de meteoros.
     icon: database
 
   - title: Ponto On-line

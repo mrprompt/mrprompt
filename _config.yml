@@ -26,43 +26,22 @@ markdown: kramdown
 permalink: pretty
 
 projects:
-  - title: Cielo
-    url: https://github.com/mrprompt/cielo
-    description: Um projeto de integração com a API da Cielo.
-    language: PHP
-  - title: Celesc
-    url: https://github.com/mrprompt/Celesc
-    description: Integração com a CELESC via troca de arquivos. 
-    language: PHP
-  - title: CaixaEconomicaFederal
-    url: https://github.com/mrprompt/CaixaEconomicaFederal
-    description: Geração e Leitura de Arquivos de Remessa CNAB240 - SIGCB para a Caixa Econômica Federal. 
-    language: PHP
-  - title:  API da BRAMON 
+  - title: Meteoros Floripa
+    url: https://github.com/mrprompt/meteoros-floripa
+    description: Estações de capturas de meteoros em Florianópolis/SC 
+    icon: camera
+
+  - title: API da BRAMON 
     url: https://github.com/bramon-org/bramon-api
     description:  API da BRAMON 
-    language: PHP
-  - title: Imóvel Web - SDK
-    url: https://github.com/mrprompt/imovelweb-sdk
-    description:  SDK de integração com a API da Imóvel Web. 
-    language: PHP
-  - title: Money
-    url: https://github.com/mrprompt/money
-    description:  Library to made work with currency and money easy. 
-    language: PHP
-  - title: Boleto Caixa Econômica Federal
-    url: https://github.com/mrprompt/BoletoCaixaEconomicaFederal
-    description:  Geração de Boletos e Bloquetos para a Caixa Econômica Federal. 
-    language: PHP
-  - title: Centercob
-    url: https://github.com/mrprompt/Centercob
-    description:  Integração com a Centercob por meio de troca de arquivos de remessa. 
-    language: PHP
-  - title: Boleto Sicoob
-    url: https://github.com/mrprompt/BoletoSicoob
-    description:  Gerar arquivo de remessa (Cobrança) para o Boleto da Sicoob 
-    language: PHP
-  - title: Classe Db
-    url: https://github.com/mrprompt/Db
-    description:  Um meio simples e fácil de acessar bases de dados utilizando PDO e XML 
-    language: PHP
+    icon: database
+
+  - title: Ponto On-line
+    url: https://meuponto.site/
+    description: Um sistema de ponto on-line para controle de jornada de trabalho.
+    icon: clock-o
+
+  - title: Thiago Paes
+    url: https://thiagopaes.dev.br
+    description: Meu site profissional.
+    icon: user

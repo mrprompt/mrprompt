@@ -39,7 +39,7 @@ projects:
   - title: CI - Integração Contínua Sem Desculpa
     url: https://mrprompt.github.io/ebook-ci-integracao-continua-sem-desculpa/
     description: Um guia prático das principais ferramentas de Integração Contínua, para todos os gostos e bolsos.
-    icon: clock-o
+    icon: book
 
   - title: Thiago Paes
     url: https://thiagopaes.dev.br

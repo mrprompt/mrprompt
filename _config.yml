@@ -36,9 +36,9 @@ projects:
     description: API da BRAMON - Brazilian Meteor Observation Network - para coleta de dados de meteoros.
     icon: database
 
-  - title: Ponto On-line
-    url: https://meuponto.site/
-    description: Um sistema de ponto on-line para controle de jornada de trabalho.
+  - title: CI - Integração Contínua Sem Desculpa
+    url: https://mrprompt.github.io/ebook-ci-integracao-continua-sem-desculpa/
+    description: Um guia prático das principais ferramentas de Integração Contínua, para todos os gostos e bolsos.
     icon: clock-o
 
   - title: Thiago Paes
